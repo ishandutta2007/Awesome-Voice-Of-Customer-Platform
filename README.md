@@ -1,16 +1,16 @@
-# Awesome-Voice-Of-Customer-Platform
+# 🗣️ Awesome Voice of Customer (VoC) Platforms
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Voice of Customer (VoC) Platforms — curated SaaS products and open-source projects for customer feedback, surveys, NPS/CSAT, text analytics and experience management" width="100%">
 </p>
 
-## Top Voice of Customer (VoC) Platforms Ecosystem
+## 🏆 Top Voice of Customer (VoC) Platforms Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+**📋 Curated List of SaaS Products & Open-Source GitHub Projects**
 
-*Focused on Customer Feedback, Experience Management, Surveys, NPS/CSAT, Text Analytics & Closed-Loop Insights*
+*🎯 Focused on Customer Feedback, Experience Management, Surveys, NPS/CSAT, Text Analytics & Closed-Loop Insights*
 
-**Last updated: August 2026**
+**📅 Last updated: August 2026**
 
 
 
@@ -18,33 +18,33 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 
 
-**Examples** include Medallia, Qualtrics, XM Institute Platform, Forsta (Press Ganey Forsta), Alchemer, SurveyMonkey Enterprise, NICE Satmetrix, QuestionPro CX, Verint Experience Management, and InMoment (the category leaders).
+**✨ Examples** include Medallia, Qualtrics, XM Institute Platform, Forsta (Press Ganey Forsta), Alchemer, SurveyMonkey Enterprise, NICE Satmetrix, QuestionPro CX, Verint Experience Management, and InMoment (the category leaders).
 
 
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, privacy-first survey/experience management, feedback boards, text analytics, and transparent VoC workflows — ideal for product teams, CX researchers, developers, and organizations that want full data ownership without enterprise lock-in.
+**🛠️ Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, privacy-first survey/experience management, feedback boards, text analytics, and transparent VoC workflows — ideal for product teams, CX researchers, developers, and organizations that want full data ownership without enterprise lock-in.
 
 
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+🤝 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
+- ☁️ [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
-- [Open-Source GitHub Projects](#open-source-github-projects)
+- 🐙 [Open-Source GitHub Projects](#open-source-github-projects)
 
-- [How to Contribute](#how-to-contribute)
+- 🤝 [How to Contribute](#how-to-contribute)
 
-- [Disclaimer](#disclaimer)
+- ⚠️ [Disclaimer](#disclaimer)
 
 
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
-| Platform | Company Size (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier / Trial Limits | Description |
+| 🖥️ Platform | 🏢 Company Size (Revenue / Valuation) | 💲 Pricing (Starting Tier) | 🆓 Free Tier / Trial Limits | 📝 Description |
 |---|---|---|---|---|
 | **[Qualtrics](https://www.qualtrics.com/)** | **$12.5B** (Silver Lake/CPP buyout, 2023); revenue ~$1.46B (FY2022) | Self-serve online from **$420/month** (~$5,040/yr, billed annually) for 1,000 responses; enterprise CoreXM typically $25K–$50K/yr | No free-forever plan; **30-day free trial** — 3 active surveys, 30 questions/survey, 500 responses/user | Leading Experience Management (XM) platform and Gartner Leader for VoC. Combines sophisticated survey design, Text iQ analytics, journey orchestration, and multi-experience (CX, EX, product, brand) programs. |
 | **[XM Institute Platform](https://www.qualtrics.com/)** (Qualtrics ecosystem) | Part of Qualtrics (**$12.5B**) | Included with Qualtrics XM plans (self-serve from **$420/month**) | Via Qualtrics 30-day free trial | Research and best-practice resources plus platform capabilities supporting enterprise XM/VoC maturity models and continuous listening programs. |
@@ -61,7 +61,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## Open-Source GitHub Projects
+## 🐙 Open-Source GitHub Projects
 
 *(Sorted by GitHub stars, descending — badge links to the repo's stargazers page.)*
 
@@ -127,27 +127,27 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-### Additional Strong Open-Source Options
+### 💡 Additional Strong Open-Source Options
 
-- **Feedback boards & idea management tools** (Fider, Astuto, ClearFlask, LogChimp, Refyyn, etc.) for public voting, roadmaps, and changelogs.
+- 📋 **Feedback boards & idea management tools** (Fider, Astuto, ClearFlask, LogChimp, Refyyn, etc.) for public voting, roadmaps, and changelogs.
 
-- **Self-hosted form/survey builders** such as OpnForm, HeyForm, OhMyForm, Nextcloud Forms, and Yakforms.
+- 📝 **Self-hosted form/survey builders** such as OpnForm, HeyForm, OhMyForm, Nextcloud Forms, and Yakforms.
 
-- **Text analytics & NLP notebooks** for sentiment analysis, topic modeling, and thematic coding of open-ended feedback.
+- 🧠 **Text analytics & NLP notebooks** for sentiment analysis, topic modeling, and thematic coding of open-ended feedback.
 
-- **VoC research agents and scripts** that apply structured methodologies (thematic analysis, JTBD) to conversation or survey data.
+- 🎙️ **VoC research agents and scripts** that apply structured methodologies (thematic analysis, JTBD) to conversation or survey data.
 
-- Community **integrations with n8n, Zapier alternatives, Slack bots, and BI tools** (Metabase, Grafana, Superset) for closed-loop workflows.
+- 🔌 Community **integrations with n8n, Zapier alternatives, Slack bots, and BI tools** (Metabase, Grafana, Superset) for closed-loop workflows.
 
-- Many smaller **Python/R analysis packages**, **sentiment libraries**, and **survey response processors** available on GitHub.
-
-
-
-**Frameworks for building custom systems**: Combine **Formbricks** or **LimeSurvey** for collection with **ABC User Feedback** / feedback boards for organization, open-source NLP/LLM pipelines for analysis, and workflow tools (n8n, Temporal, Inngest) for closed-loop action. Pair with privacy-focused analytics stacks for full data ownership.
+- 📦 Many smaller **Python/R analysis packages**, **sentiment libraries**, and **survey response processors** available on GitHub.
 
 
 
-## How to Contribute
+**🔧 Frameworks for building custom systems**: Combine **Formbricks** or **LimeSurvey** for collection with **ABC User Feedback** / feedback boards for organization, open-source NLP/LLM pipelines for analysis, and workflow tools (n8n, Temporal, Inngest) for closed-loop action. Pair with privacy-focused analytics stacks for full data ownership.
+
+
+
+## 🤝 How to Contribute
 
 1. Fork the repo.
 
@@ -159,11 +159,11 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-Star the repo if you find it useful!
+⭐ Star the repo if you find it useful!
 
 
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 
@@ -175,6 +175,6 @@ Star the repo if you find it useful!
 
 ---
 
-**Made for CX leaders, product teams, researchers, and developers.**  
+**🚀 Made for CX leaders, product teams, researchers, and developers.**  
 
 Let's make Voice of Customer programs more open, privacy-respecting, and actionable.
