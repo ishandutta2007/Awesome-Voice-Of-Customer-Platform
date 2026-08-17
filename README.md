@@ -15,12 +15,13 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Voice-Of-Customer-Platform?style=flat-square&logo=github&label=Stars" alt="GitHub stars"/>
   <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Voice-Of-Customer-Platform?style=flat-square" alt="License"/>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"/>
   <img src="https://img.shields.io/badge/contributions-welcome-orange?style=flat-square" alt="Contributions welcome"/>
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Voice-Of-Customer-Platform?style=flat-square" alt="Last commit"/>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ## 🏆 Top Voice of Customer (VoC) Platforms Ecosystem
@@ -189,6 +190,12 @@ This repository tracks the best **SaaS platforms** and **open-source projects** 
 - Voice of Customer programs must comply with data privacy, consent, and research ethics regulations (GDPR, CCPA, etc.).
 
 - Self-hosted open-source solutions require proper security, access controls, backup, and operational practices, especially when handling sensitive customer feedback.
+
+
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Voice-Of-Customer-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Voice-Of-Customer-Platform&type=date&legend=top-left)
 
 
 
