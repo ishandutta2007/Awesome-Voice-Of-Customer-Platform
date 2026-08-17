@@ -1,5 +1,9 @@
 # Awesome-Voice-Of-Customer-Platform
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Voice of Customer (VoC) Platforms — curated SaaS products and open-source projects for customer feedback, surveys, NPS/CSAT, text analytics and experience management" width="100%">
+</p>
+
 ## Top Voice of Customer (VoC) Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**

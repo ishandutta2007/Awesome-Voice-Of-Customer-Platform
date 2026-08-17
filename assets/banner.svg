@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Awesome Voice of Customer (VoC) Platforms — curated SaaS products and open-source projects for customer feedback, surveys, NPS/CSAT, text analytics and experience management">
+  <defs>
+    <!-- Animated background gradient (dynamic aspect: colors slowly travel across the banner) -->
+    <linearGradient id="bgGrad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="300">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="45%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+      <animate attributeName="x1" values="0;1200;0" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1200;0;1200" dur="20s" repeatCount="indefinite"/>
+    </linearGradient>
+    <!-- Animated accent gradient for the subtitle underline -->
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#7b2ff7"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <!-- Title text gradient (dynamic aspect: sheen moves across the text) -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#a5f3fc"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes float1 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(0,-16px); } }
+    @keyframes float2 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(0,14px); } }
+    @keyframes pulse { 0%,100% { opacity:.25; } 50% { opacity:.95; } }
+    @keyframes wave { 0%,100% { transform: scaleY(.3); } 50% { transform: scaleY(1); } }
+    .b1 { animation: float1 6s ease-in-out infinite; }
+    .b2 { animation: float2 7s ease-in-out infinite; }
+    .pulse { animation: pulse 2.6s ease-in-out infinite; }
+    .bar { transform-box: fill-box; transform-origin: bottom; animation: wave 1.5s ease-in-out infinite; }
+  </style>
+
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+
+  <!-- soft decorative blobs -->
+  <circle class="b1" cx="140" cy="70" r="95" fill="#7b2ff7" opacity="0.20"/>
+  <circle class="b2" cx="1060" cy="235" r="125" fill="#00d4ff" opacity="0.14"/>
+  <circle class="b2" cx="620" cy="20" r="60" fill="#00d4ff" opacity="0.08"/>
+
+  <!-- left chat bubble with dots (dynamic aspect: floats) -->
+  <g class="b1">
+    <rect x="70" y="180" width="130" height="74" rx="18" fill="rgba(255,255,255,0.08)" stroke="#00d4ff" stroke-width="2"/>
+    <circle cx="100" cy="148" r="15" fill="none" stroke="#00d4ff" stroke-width="2"/>
+    <path d="M100 148 l13 -10" stroke="#00d4ff" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="135" cy="217" r="6" fill="#00d4ff" opacity="0.75"/>
+    <circle cx="155" cy="217" r="6" fill="#00d4ff" opacity="0.45"/>
+    <circle cx="175" cy="217" r="6" fill="#00d4ff" opacity="0.22"/>
+  </g>
+
+  <!-- right chat bubble with dots (dynamic aspect: floats on a different rhythm) -->
+  <g class="b2">
+    <rect x="1000" y="42" width="132" height="76" rx="18" fill="rgba(255,255,255,0.08)" stroke="#7b2ff7" stroke-width="2"/>
+    <path d="M1032 92 q -14 10 -9 24" fill="none" stroke="#7b2ff7" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="1090" cy="64" r="6" fill="#7b2ff7" opacity="0.75"/>
+    <circle cx="1108" cy="64" r="6" fill="#7b2ff7" opacity="0.45"/>
+    <circle cx="1126" cy="64" r="6" fill="#7b2ff7" opacity="0.22"/>
+  </g>
+
+  <!-- voice waveform (dynamic aspect: bars pulse like an audio meter) -->
+  <g transform="translate(560,222)">
+    <rect class="bar" x="0"  y="0" width="8" height="50" rx="4" fill="#00d4ff"/>
+    <rect class="bar" x="14" y="0" width="8" height="50" rx="4" fill="#00d4ff" style="animation-delay:.15s"/>
+    <rect class="bar" x="28" y="0" width="8" height="50" rx="4" fill="#00d4ff" style="animation-delay:.3s"/>
+    <rect class="bar" x="42" y="0" width="8" height="50" rx="4" fill="#00d4ff" style="animation-delay:.45s"/>
+    <rect class="bar" x="56" y="0" width="8" height="50" rx="4" fill="#00d4ff" style="animation-delay:.6s"/>
+    <rect class="bar" x="70" y="0" width="8" height="50" rx="4" fill="#00d4ff" style="animation-delay:.75s"/>
+    <rect class="bar" x="84" y="0" width="8" height="50" rx="4" fill="#00d4ff" style="animation-delay:.9s"/>
+    <rect class="bar" x="98" y="0" width="8" height="50" rx="4" fill="#00d4ff" style="animation-delay:1.05s"/>
+    <rect class="bar" x="112" y="0" width="8" height="50" rx="4" fill="#00d4ff" style="animation-delay:1.2s"/>
+  </g>
+
+  <!-- title -->
+  <text x="600" y="118" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="url(#textGrad)">Awesome Voice of Customer Platforms</text>
+  <text x="600" y="164" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#c7d2fe">SaaS &amp; Open-Source Tools for Feedback, Surveys, NPS/CSAT &amp; Experience Management</text>
+
+  <rect x="430" y="178" width="340" height="6" rx="3" fill="url(#accent)"/>
+
+  <!-- live status (dynamic aspect: pulsing dot) -->
+  <g class="pulse">
+    <circle cx="522" cy="212" r="6" fill="#22c55e"/>
+  </g>
+  <text x="538" y="217" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#86efac">Always listening to your customers</text>
+</svg>
