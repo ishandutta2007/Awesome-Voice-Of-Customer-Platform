@@ -1,3 +1,12 @@
+<!--
+  Meta description (SEO): A curated list of the best Voice of Customer (VoC) platforms — SaaS
+  customer feedback software, experience management (XM) tools, NPS & CSAT survey platforms, and
+  open-source survey, feedback board, and text analytics projects for self-hosting.
+  Keywords: voice of customer, VoC platforms, customer feedback software, experience management,
+  XM, NPS, CSAT, customer surveys, sentiment analysis, text analytics, open source survey tools,
+  self-hosted feedback platforms, closed-loop feedback, customer journey, CX.
+-->
+
 # 🗣️ Awesome Voice of Customer (VoC) Platforms
 
 <p align="center">
@@ -14,7 +23,7 @@
 
 
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Voice of Customer (VoC)**. These tools capture, analyze, and act on customer feedback across surveys, reviews, social, support tickets, speech, and digital channels — enabling experience management (XM), journey insights, sentiment analysis, and closed-loop action.
+This repository tracks the best **SaaS platforms** and **open-source projects** for **Voice of Customer (VoC)** — customer feedback software, experience management (XM) tools, NPS & CSAT survey platforms, and text analytics engines. These tools capture, analyze, and act on customer feedback across surveys, reviews, social media, support tickets, speech, and digital channels, enabling experience management (XM), journey insights, sentiment analysis, and closed-loop action — whether you run enterprise CX programs like Qualtrics or Medallia, or prefer self-hosted, privacy-first survey and feedback stacks.
 
 
 
