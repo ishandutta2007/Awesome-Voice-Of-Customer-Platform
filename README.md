@@ -61,9 +61,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 *(Sorted by GitHub stars, descending — badge links to the repo's stargazers page.)*
 
+- **[PostHog](https://github.com/PostHog/posthog) [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog.svg?style=social&color=white&label=Stars)](https://github.com/PostHog/posthog/stargazers)**  
+
+  Open-source product analytics platform (MIT core) with built-in VoC features: in-product surveys (NPS, CSAT, custom), a feedback board for feature requests, and session replay to see how customers actually use your product. Self-hostable, with a generous free cloud tier for small teams.
+
 - **[Formbricks](https://github.com/formbricks/formbricks) [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks.svg?style=social&color=white&label=Stars)](https://github.com/formbricks/formbricks/stargazers)**  
 
-  Leading open-source Qualtrics / Medallia alternative (AGPLv3). Privacy-first experience management platform with in-app, website, link, and email surveys, no-code editor, targeting, templates, integrations (Slack, Notion, Zapier, n8n), and full self-hosting. Strong focus on actionable feedback at every user journey point.
+  Leading open-source Qualtrics / Medallia alternative (AGPLv3). Privacy-first experience management platform with in-app, website, link, and email surveys, no-code editor, targeting, templates, integrations (Slack, Notion, Zapier, n8n), and full self-hosting.  Strong focus on actionable feedback at every user journey point.
+
+- **[HeyForm](https://github.com/heyform/heyform) [![GitHub stars](https://img.shields.io/github/stars/heyform/heyform.svg?style=social&color=white&label=Stars)](https://github.com/heyform/heyform/stargazers)**  
+
+  Open-source (AGPLv3) form and survey builder — a self-hostable Typeform alternative with a drag-and-drop builder, conditional logic, and embeddable widgets for collecting structured customer feedback.
+
+- **[VaderSentiment](https://github.com/cjhutto/vaderSentiment) [![GitHub stars](https://img.shields.io/github/stars/cjhutto/vaderSentiment.svg?style=social&color=white&label=Stars)](https://github.com/cjhutto/vaderSentiment/stargazers)**  
+
+  VADER (Valence Aware Dictionary and sEntiment Reasoner) — a lightweight, rule-based sentiment analysis library (MIT) that scores open-ended feedback text without any training data. Popular for classifying survey comments, reviews, and social mentions into positive/negative/neutral in VoC pipelines.
 
 - **[SurveyJS](https://github.com/surveyjs/survey-library) [![GitHub stars](https://img.shields.io/github/stars/surveyjs/survey-library.svg?style=social&color=white&label=Stars)](https://github.com/surveyjs/survey-library/stargazers)**  
 
@@ -76,6 +88,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) [![GitHub stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey.svg?style=social&color=white&label=Stars)](https://github.com/LimeSurvey/LimeSurvey/stargazers)**  
 
   Mature, powerful open-source survey platform (long-standing alternative to SurveyMonkey/Qualtrics). Supports unlimited surveys/questions, 30+ question types, complex branching/skip logic, multilingual surveys, templates, and extensive customization. Fully self-hostable.
+
+- **[OpnForm](https://github.com/OpnForm/OpnForm) [![GitHub stars](https://img.shields.io/github/stars/OpnForm/OpnForm.svg?style=social&color=white&label=Stars)](https://github.com/OpnForm/OpnForm/stargazers)**  
+
+  Open-source, self-hostable form builder (Typeform alternative) with a drag-and-drop editor, conditional logic, and response notifications — quick to deploy for simple VoC and qualification surveys.
+
+- **[OhMyForm](https://github.com/ohmyform/ohmyform) [![GitHub stars](https://img.shields.io/github/stars/ohmyform/ohmyform.svg?style=social&color=white&label=Stars)](https://github.com/ohmyform/ohmyform/stargazers)**  
+
+  Free, open-source (AGPLv3) Typeform alternative for building and self-hosting surveys and feedback forms with themes, skip logic, and embeddable widgets (archived, but widely deployed).
 
 - **[Astuto](https://github.com/astuto/astuto) [![GitHub stars](https://img.shields.io/github/stars/astuto/astuto.svg?style=social&color=white&label=Stars)](https://github.com/astuto/astuto/stargazers)**  
 
